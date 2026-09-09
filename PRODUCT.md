@@ -3,7 +3,7 @@
 **SKU:** `indie-saas-trial-objection-emails`
 **Price:** $19 USD, USDC on Base
 **Who:** Indie SaaS founder emailing trial users who already signed up
-**Not:** Day 0-14 onboarding sequence (that is a different SKU). Not a cold outbound pack.
+**Not:** Day 0–14 onboarding sequence (that is a different SKU). Not a cold outbound pack.
 
 Only people in your product who opted into product email.
 
@@ -23,11 +23,12 @@ Body: tx hash + Base explorer link + the wallet you sent from.
 
 (c) 2026. Original English. Not legal advice. No outcome guarantees.
 
+
 ---
 
 ## What you are buying
 
-Objection-handling emails for common trial friction: price, no time, need to ask boss, missing feature, not sure it works, and a graceful exit. Plus when not to send.
+Objection-handling emails for common trial friction: price, "no time," "need to ask boss," "missing feature," "not sure it works," and a graceful exit. Plus when **not** to send.
 
 ## What this is not
 
@@ -79,7 +80,7 @@ You asked for {{feature}}. Today: {{workaround_or_no}}. I will not pretend it sh
 **O6 last**
 
 ```
-Trial ending. If it is a no, that is fine — reply no and I will stop. If you want one more week of trial and I offer that, say so.
+Trial ending. If it is a no, that is fine — reply "no" and I will stop. If you want one more week of trial and I offer that, say so.
 ```
 
 ## When you do not send
@@ -88,7 +89,7 @@ Unsubscribed. Not a trial user. Support ticket open with anger — human first.
 
 ## Honest limits
 
-No this pack adds 12% conversion claim. Measure your own reply and activate rates.
+No "this pack adds 12% conversion" claim. Measure your own reply and activate rates.
 
 ## License
 
